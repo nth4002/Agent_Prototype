@@ -1,0 +1,88 @@
+[
+  {
+    "feature_id": "FIL-CS-01",
+    "feature_name": "AI Inbox",
+    "product_category": "AI Customer Service",
+    "how_it_helps": "Streamlines your contact center by using AI agents to handle repetitive questions 24/7, deflecting a high volume of tickets and freeing up your human agents to focus on complex issues.",
+    "pain_point_keywords": [
+      "overwhelmed agents",
+      "high volume",
+      "repetitive questions",
+      "slow response",
+      "long wait times",
+      "24/7 support",
+      "ticket backlog",
+      "support costs",
+      "agent burnout",
+      "handle more chats",
+      "overwhelmed"
+    ]
+  },
+  {
+    "feature_id": "FIL-VOC-01",
+    "feature_name": "Surveys",
+    "product_category": "Voice of Customer (VoC)",
+    "how_it_helps": "Allows you to design and deploy targeted surveys (like CSAT and NPS) across any channel to gather direct feedback and measure customer satisfaction without guessing.",
+    "pain_point_keywords": [
+      "don't know if customers are happy",
+      "no feedback",
+      "measure satisfaction",
+      "flying blind",
+      "customer loyalty",
+      "csat",
+      "nps",
+      "collect feedback",
+      "no data on experience"
+    ]
+  },
+  {
+    "feature_id": "FIL-VOC-02",
+    "feature_name": "Reviews",
+    "product_category": "Voice of Customer (VoC)",
+    "how_it_helps": "Aggregates all your public reviews from app stores, social media, and location pages into one dashboard to help you monitor and protect your brand's online reputation.",
+    "pain_point_keywords": [
+      "bad reviews",
+      "negative comments",
+      "online reputation",
+      "brand reputation",
+      "google reviews",
+      "app store ratings",
+      "1-star review",
+      "manage reviews"
+    ]
+  },
+  {
+    "feature_id": "FIL-IN-01",
+    "feature_name": "Experience Insights",
+    "product_category": "Insights",
+    "how_it_helps": "Analyzes all your customer conversations (chats, calls, emails) to automatically identify and quantify the top reasons for contact, giving you actionable insights into the root causes of customer issues.",
+    "pain_point_keywords": [
+      "root cause",
+      "don't know why customers call",
+      "actionable insights",
+      "wall of text",
+      "analyze conversations",
+      "topic analysis",
+      "sentiment analysis",
+      "thousands of tickets",
+      "make sense of data"
+    ]
+  },
+  {
+    "feature_id": "FIL-C360-01",
+    "feature_name": "Customers (Segmentation)",
+    "product_category": "Customer 360",
+    "how_it_helps": "Lets you group your entire customer base into meaningful segments based on their behavior or feedback, enabling targeted, personalized engagement campaigns instead of 'one-size-fits-all' messaging.",
+    "pain_point_keywords": [
+      "personalization",
+      "mass messaging",
+      "generic emails",
+      "low engagement",
+      "customer segments",
+      "target audience",
+      "right message",
+      "know our customers",
+      "one-size-fits-all"
+    ]
+  }
+]
