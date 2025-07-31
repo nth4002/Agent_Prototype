@@ -19,6 +19,7 @@ class PainPointInput(BaseModel):
     top_n: int = 3
 
 class Solution(BaseModel):
+    solution_title: str
     feature_name: str
     product_category: str
     how_it_helps: str
@@ -46,6 +47,7 @@ async def get_suggestions(payload: PainPointInput):
             "score": s['score'],
             'match_reason': s['match_reason'],
             "solution": {
+                "solution_title": s['feature_data']['solution_title'],
                 "feature_name": s['feature_data']['feature_name'],
                 "product_category": s['feature_data']['product_category'],
                 "how_it_helps": s['feature_data']['how_it_helps']

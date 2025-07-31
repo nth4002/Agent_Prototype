@@ -46,7 +46,7 @@ class PainPointAgent:
             
             # only consider features with a non-zero score
             if relevance_score > 0:
-                scored_features.append({
+                scored_features.append({ 
                     "feature_data": feature,
                     "score": relevance_score,
                     "match_reason": f"Matched on keywords: {', '.join(matching_keywords)}"
