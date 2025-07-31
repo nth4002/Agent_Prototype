@@ -66,7 +66,7 @@ The API will be available at [http://localhost:8000](http://localhost:8000).
 
 ### Example Usage
 
-Send a POST request to `/suggest-solutions` with a JSON payload:
+Go to the url at [http://localhost:8000/docs](http://localhost:8000/docs). Then send a POST request to `/suggest-solutions` with a JSON payload:
 
 ```json
 {
