@@ -1,0 +1,19 @@
+{
+  "text": "Our support agents are totally overwhelmed by the ticket backlog and our response times are terrible.",
+  "top_n": 2
+}
+
+{
+  "text": "Honestly, we are flying blind. I have no idea if our customers are happy or not. We have no feedback system and we don't measure NPS or satisfaction at all.",
+  "top_n": 1
+}
+
+{
+  "text": "Our online reputation is taking a hit. We're seeing more and more bad reviews on the app store and Google, and I don't have a good way to track them all in one place.",
+  "top_n": 1
+}
+
+{
+  "text": "Our customer experience feels totally fragmented. Our teams work in silos and customer conversations get lost when they're handed off. The whole process is disorganized and we have no accountability.",
+  "top_n": 3
+}

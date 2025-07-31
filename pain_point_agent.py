@@ -6,7 +6,7 @@ class PainPointAgent:
     def __init__(self, knowledge_base_path: str):
         """Initialize the agent by loading the knowledge base"""
         try:
-            with open('filum_knowledge_base.json', 'r') as f:
+            with open('knowledge_base.json', 'r') as f:
                 self.knowledge_base = json.load(f)
         except FileNotFoundError as err:
             print(f"Error: Knowledge Base file not found at {knowledge_base_path}")
@@ -58,6 +58,6 @@ class PainPointAgent:
         return sorted_suggestions[:top_n]
 
 if __name__ == "__main__":
-    ppa = PainPointAgent('filum_knowledge_base.json')
+    ppa = PainPointAgent('knowledge_base.json')
     text = "Our Support Agents are totally overwhelmed by the ticket backlog and our response times are terrible."
     print(ppa.suggest_solutions(text)[0].keys())

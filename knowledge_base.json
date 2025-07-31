@@ -1,0 +1,211 @@
+[
+  {
+    "feature_id": "FIL-CS-01",
+    "feature_name": "AI Inbox",
+    "product_category": "AI Customer Service",
+    "how_it_helps": "Streamlines your contact center by using AI agents to handle repetitive questions 24/7, deflecting a high volume of tickets and freeing up your human agents to focus on complex, high-value issues.",
+    "pain_point_keywords": [
+      "overwhelmed agents",
+      "high volume",
+      "repetitive questions",
+      "slow response times",
+      "long wait times",
+      "24/7 support",
+      "after hours support",
+      "ticket backlog",
+      "high support costs",
+      "agent burnout",
+      "agent turnover",
+      "need to handle more chats",
+      "ticket deflection",
+      "instant answers"
+    ]
+  },
+  {
+    "feature_id": "FIL-CS-02",
+    "feature_name": "Tickets",
+    "product_category": "AI Customer Service",
+    "how_it_helps": "Provides a centralized and organized system for tracking, managing, and resolving every customer issue, ensuring no conversation gets lost and your team has full accountability.",
+    "pain_point_keywords": [
+      "lost conversations",
+      "no tracking",
+      "emails are a mess",
+      "support is chaos",
+      "disorganized support",
+      "no accountability",
+      "SLA",
+      "service level agreement",
+      "who owns this issue",
+      "manual tracking",
+      "using spreadsheets",
+      "nothing is centralized",
+      "tracking customer issues"
+    ]
+  },
+  {
+    "feature_id": "FIL-IN-01",
+    "feature_name": "Experience Insights",
+    "product_category": "Insights",
+    "how_it_helps": "Analyzes all your customer conversations and feedback to automatically identify and quantify the top reasons for contact, giving you actionable insights into the root causes of customer issues.",
+    "pain_point_keywords": [
+      "root cause analysis",
+      "don't know why customers are calling",
+      "top contact reasons",
+      "actionable insights",
+      "data is a wall of text",
+      "analyze conversations",
+      "topic analysis",
+      "sentiment analysis",
+      "trending issues",
+      "get value from support data",
+      "make sense of thousands of tickets",
+      "what product features to build next"
+    ]
+  },
+  {
+    "feature_id": "FIL-IN-02",
+    "feature_name": "Operation Insights",
+    "product_category": "Insights",
+    "how_it_helps": "Gives you a real-time dashboard to monitor the performance of your entire customer service and experience operation, from agent productivity and ticket resolution times to survey response rates.",
+    "pain_point_keywords": [
+      "measure performance",
+      "reporting is hard",
+      "dashboards",
+      "are we improving",
+      "agent performance",
+      "team productivity",
+      "first response time",
+      "resolution time",
+      "deflection rate",
+      "survey response rate",
+      "CSAT trends",
+      "NPS trends",
+      "KPIs",
+      "business intelligence for CX"
+    ]
+  },
+  {
+    "feature_id": "FIL-VOC-01",
+    "feature_name": "Surveys",
+    "product_category": "Voice of Customer (VoC)",
+    "how_it_helps": "Allows you to design and deploy targeted surveys (like CSAT, NPS, and CES) across any channel to gather direct feedback at key moments and measure customer satisfaction without guessing.",
+    "pain_point_keywords": [
+      "don't know if customers are happy",
+      "no feedback",
+      "measure satisfaction",
+      "flying blind",
+      "understand customer loyalty",
+      "CSAT",
+      "NPS",
+      "CES",
+      "collect customer feedback",
+      "no data on experience",
+      "low survey response rate"
+    ]
+  },
+  {
+    "feature_id": "FIL-VOC-02",
+    "feature_name": "Reviews",
+    "product_category": "Voice of Customer (VoC)",
+    "how_it_helps": "Aggregates all your public reviews from app stores, social media, and location pages into one dashboard to help you monitor and protect your brand's online reputation.",
+    "pain_point_keywords": [
+      "bad reviews",
+      "negative comments",
+      "online reputation",
+      "brand image",
+      "google reviews",
+      "app store ratings",
+      "social media comments",
+      "1-star reviews",
+      "need to manage reviews",
+      "protect our brand"
+    ]
+  },
+  {
+    "feature_id": "FIL-VOC-03",
+    "feature_name": "Conversations",
+    "product_category": "Voice of Customer (VoC)",
+    "how_it_helps": "The foundational capability to listen to and ingest all forms of customer interactions—including chat, calls, and emails—so they can be analyzed for insights.",
+    "pain_point_keywords": [
+      "tap into conversations",
+      "unsolicited feedback",
+      "voice of the customer",
+      "listen to our calls",
+      "analyze chats",
+      "hidden insights in emails",
+      "mine conversations for feedback"
+    ]
+  },
+  {
+    "feature_id": "FIL-VOC-04",
+    "feature_name": "Journeys",
+    "product_category": "Voice of Customer (VoC)",
+    "how_it_helps": "Allows you to map, visualize, and manage the entire end-to-end customer lifecycle, identifying moments of friction and opportunities to improve the overall experience.",
+    "pain_point_keywords": [
+      "customer journey mapping",
+      "end-to-end experience",
+      "holistic view",
+      "our teams work in silos",
+      "fragmented experience",
+      "bad onboarding process",
+      "post-purchase friction",
+      "customer lifecycle",
+      "moments of truth",
+      "broken experience"
+    ]
+  },
+  {
+    "feature_id": "FIL-C360-01",
+    "feature_name": "Customers (Segmentation)",
+    "product_category": "Customer 360",
+    "how_it_helps": "Lets you group your entire customer base into meaningful segments based on their behavior or feedback, enabling targeted, personalized communication instead of 'one-size-fits-all' messaging.",
+    "pain_point_keywords": [
+      "personalization",
+      "mass messaging",
+      "generic emails",
+      "low engagement",
+      "customer segments",
+      "target audience",
+      "know our customers",
+      "right message to the right person",
+      "email blasts aren't working",
+      "treat customers differently"
+    ]
+  },
+  {
+    "feature_id": "FIL-C360-02",
+    "feature_name": "Engagement",
+    "product_category": "Customer 360",
+    "how_it_helps": "Empowers you to act on your customer segments by running proactive, automated campaigns to reduce churn, increase loyalty, or follow up on feedback.",
+    "pain_point_keywords": [
+      "proactive outreach",
+      "reduce churn",
+      "increase loyalty",
+      "customer retention",
+      "run campaigns",
+      "engage with customers",
+      "reaching out to at-risk customers",
+      "follow up on survey feedback",
+      "close the loop",
+      "prevent customers from leaving"
+    ]
+  },
+  {
+    "feature_id": "FIL-AA-01",
+    "feature_name": "AI & Automation",
+    "product_category": "AI & Automation",
+    "how_it_helps": "Provides a powerful, configurable engine to create custom workflows, set automation rules, and fine-tune AI models to match your specific business logic and processes.",
+    "pain_point_keywords": [
+      "need more control",
+      "customization",
+      "automation workflows",
+      "custom rules",
+      "fine-tune AI",
+      "our business logic is unique",
+      "black box systems don't work",
+      "connect our systems",
+      "if-then rules",
+      "trigger actions"
+    ]
+  }
+]
