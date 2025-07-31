@@ -21,7 +21,7 @@ Agent_Prototype/
 ├── example.txt               # Contains example API requests for testing or demonstration purposes.
 ├── requirements.txt          # requirements package
 └── README.md
-Contains example API requests for testing or demonstration purposes.
+
 ```
 
 ## Getting Started
