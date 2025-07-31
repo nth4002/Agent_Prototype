@@ -47,7 +47,7 @@
   {
     "feature_id": "FIL-IN-01",
     "feature_name": "Experience Insights",
-    "solution_title": "Root Cause Analysis from Customer Conversations",
+    "solution_title": "AI-Powered Topic & Sentiment Analysis",
     "product_category": "Insights",
     "how_it_helps": "Analyzes all your customer conversations and feedback to automatically identify and quantify the top reasons for contact, giving you actionable insights into the root causes of customer issues.",
     "pain_point_keywords": [
@@ -62,7 +62,13 @@
       "trending issues",
       "get value from support data",
       "make sense of thousands of tickets",
-      "what product features to build next"
+      "what product features to build next",
+      "manually analyzing",
+      "open-ended survey responses",
+      "common themes",
+      "free text analysis",
+      "too time-consuming",
+      "verbatim analysis"
     ]
   },
   {
@@ -105,7 +111,13 @@
       "CES",
       "collect customer feedback",
       "no data on experience",
-      "low survey response rate"
+      "low survey response rate",
+      "after a purchase",
+      "post-purchase",
+      "consistently",
+      "struggling to collect",
+      "automated feedback",
+      "trigger surveys"
     ]
   },
   {
@@ -146,7 +158,7 @@
   {
     "feature_id": "FIL-VOC-04",
     "feature_name": "Journeys",
-    "solution_title": "Customer Journey Friction Point Analysis",
+    "solution_title": "Customer Journey Experience Analysis",
     "product_category": "Voice of Customer (VoC)",
     "how_it_helps": "Allows you to map, visualize, and manage the entire end-to-end customer lifecycle, identifying moments of friction and opportunities to improve the overall experience.",
     "pain_point_keywords": [
@@ -159,15 +171,18 @@
       "post-purchase friction",
       "customer lifecycle",
       "moments of truth",
-      "broken experience"
+      "broken experience",
+      "customer touchpoints",
+      "causing the most frustration",
+      "friction points"
     ]
   },
   {
     "feature_id": "FIL-C360-01",
     "feature_name": "Customers (Segmentation)",
-    "solution_title": "Targeted Personalization via Customer Segmentation",
+    "solution_title": "Unified Customer Profile with Interaction History",
     "product_category": "Customer 360",
-    "how_it_helps": "Lets you group your entire customer base into meaningful segments based on their behavior or feedback, enabling targeted, personalized communication instead of 'one-size-fits-all' messaging.",
+    "how_it_helps": "Consolidates all touchpoints, past interactions, and customer data into a single, comprehensive view for your agents, while also enabling targeted segmentation.",
     "pain_point_keywords": [
       "personalization",
       "mass messaging",
@@ -178,7 +193,13 @@
       "know our customers",
       "right message to the right person",
       "email blasts aren't working",
-      "treat customers differently"
+      "treat customers differently",
+      "single view of a customer",
+      "interaction history",
+      "agents have no context",
+      "customer's history",
+      "consolidated view",
+      "360-degree view"
     ]
   },
   {
